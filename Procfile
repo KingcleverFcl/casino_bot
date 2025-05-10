@@ -1,0 +1,1 @@
+worker: python dealer_bot/app.py
